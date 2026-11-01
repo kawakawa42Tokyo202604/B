@@ -1,0 +1,11 @@
+/B
+/build/
+*.o
+!/brt0.o
+/a.out
+lex.yy.c
+y.tab.c
+y.tab.h
+*.tab.c
+*.tab.h
+*.output
